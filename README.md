@@ -7,6 +7,12 @@ Hello! I'm an industrial automation engineer with a master's in electrical engin
 ## Contact me
 As I continue my journey in ML development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
 
+<<<<<<< HEAD
+## Hobbies
+- Reading
+- Aerial Dance
+- Writing
+=======
 ## Languages
 
 - Spanish (Native)
@@ -19,5 +25,6 @@ As I continue my journey in ML development, I am always on the lookout for colla
 ## Skills
 - Problem-Solving
 - Project Management
+>>>>>>> e380d625ff22f3431e7c7d0c00ff3a8c89edf484
 
 
