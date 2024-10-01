@@ -16,4 +16,8 @@ As I continue my journey in ML development, I am always on the lookout for colla
 ## Technologies
 - Machine Learning: Proficient in Python, I bring to the table a strong understanding of data analysis and ML models.
 
+## Skills
+- Problem-Solving
+- Project Management
+
 
